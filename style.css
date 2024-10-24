@@ -1,0 +1,108 @@
+body {
+    display: grid;
+    place-content: center;
+    background-color: burlywood;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    width: 100%;
+    padding-right: 100px;
+    
+   
+}
+.salamaleikum {
+    display: flex;
+   gap: 800px;
+}
+.salam-bro h1 {
+color: rgb(79, 4, 4);
+}
+.salam-bro p {
+    color: rgba(79, 4, 4, 0.539);
+}
+.qwerty {  
+    width: 2000px;
+    height: 800px;
+    background-color: azure;
+    padding-left: 300px;
+    box-shadow: 10px 5px 5px black;
+    
+    
+}
+h1 {
+    font-size: 70px;
+}
+.bigger {
+    display: grid;
+    grid-template-columns: 400px 400px 400px 400px 400px 400px;
+    padding-top: 10px;
+    gap: 100px;
+}
+.firsr {
+    padding-top: 10px;
+   padding-left: 10px;
+    background-color: blueviolet;
+    color: azure;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px rgba(55, 49, 49, 0.606);
+}
+.second {
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: blueviolet;
+    color: azure;
+    border-radius: 15px;
+    margin: 20px 0 -20px 0;
+    box-shadow: 10px 5px 5px rgba(55, 49, 49, 0.606);
+    
+}
+.third {
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: blueviolet;
+    color: azure;
+    border-radius: 15px;
+    margin: 40px 0 -40px 0;
+    box-shadow: 10px 5px 5px rgba(55, 49, 49, 0.606);
+}
+.firsr img {
+    border-radius: 50%;
+}
+.second img {
+border-radius: 50%;
+}
+.third img {
+    border-radius: 50%;
+}
+.aktyal {
+    display: flex;
+    gap: 10px;
+}
+.asd {
+    display: flex;
+    align-items: center;
+    
+    gap: 10px;
+}
+.kzx {
+   
+    background-color: brown;
+    border-radius: 10px;
+    margin: 0 80px 0 -80px;
+    box-shadow: 10px 5px 5px rgb(196, 138, 138);
+}
+.zxc {
+    background-color: rgb(161, 80, 80);
+    border-radius: 10px;
+    margin: 0 40px 0 -40px;
+    box-shadow: 10px 5px 5px rgb(196, 138, 138);
+}
+.atyl {
+    background-color:brown;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(196, 138, 138);
+}
+.doner {
+    padding-top: 100px;
+    
+}
